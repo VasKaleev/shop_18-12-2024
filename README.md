@@ -1,6 +1,6 @@
 Запуск проекта
-pnpm i
-pnpm dev
+# pnpm i
+# pnpm dev
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
